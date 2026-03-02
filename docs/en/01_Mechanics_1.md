@@ -3,9 +3,13 @@
 ## 1. Projectile Motion
 
 A projectile is fired from the ground with an initial velocity of $100  \text{ m/s}$ at an angle of $37^\circ$ above the horizontal. Assume no air resistance.
+
 * Derive the differential equations of motion in the horizontal and vertical directions.
+
 * Determine the time of flight.
+
 * Determine the maximum height.
+
 * Determine the range.
 
 ## 2. Range Optimization
